@@ -1,0 +1,1 @@
+Use either the Strategy or Template design pattern and refactor into the other one.
